@@ -2,7 +2,8 @@
 
 ## How to run
 1 - run docker-compose up to run the mysql on port 3307
-2 - run `npm start`
+2 - run `npm start` on api directory
+3 - run `npm start` on ui directory
 
 those 2 commands should be enough for running the app with the mysql connection.
 
