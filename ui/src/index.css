@@ -1,0 +1,26 @@
+form {
+  display: flex;
+  margin: 20px auto;
+  width: 300px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+label {
+  width: 100%;
+}
+
+input {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+button {
+  width: 200px;
+}
+
+#error {
+  color: red;
+  margin: 0 auto;
+  width: 300px;
+}
